@@ -21,4 +21,7 @@ Une backdoor démonisée écrite en C, fontionne sous Linux
   - La commande "end" permet d'arrêter de communiquer avec la backdoor (mais si vous fermez brusquement la connexion la backdoor ne bug pas)
   
   - La commande "shutdown_backdoor" permet d'arrêter la backdoor
-  
+
+Comme d'habitude, récupérez et améliorez ce code afin qu'il vive longtemps ^^
+Si vous souhaitez me joindre :
+  -aiglematth@protonmail.com
